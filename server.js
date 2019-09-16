@@ -11,7 +11,7 @@ const PORT = process.env.PORT || process.env.MY_PORT;
 
 
 const corsOptions = {
-    origin: ['http://localhost:3000'],
+    origin: ['http://localhost:3000', 'http://eduardofranco.me'],
     credentials: true,
     optionsSuccessStatus: 200
 };
@@ -21,7 +21,6 @@ app.use(cors(corsOptions));
 
 // post route for messages
 app.post('/contact', (req, res) => {
-    console.log(req);
     let mailOpts, smtpTrans;
     smtpTrans = nodemailer.createTransport({
         service: 'gmail',
