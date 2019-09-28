@@ -17,7 +17,7 @@ You can also add it to your projects' node modules as so:
 npm install nodemailer
 ```
 
-Additionally I used .env so that I could post and share my work on github while still keeping my accounts credentials discreet.
+Additionally I used .env so that I could post and share my work on github while still keeping my account's credentials discreet.
 You can learn more about .env [here](https://www.npmjs.com/package/dotenv) and add it to your projects like this:
 ```
 npm install dotenv
