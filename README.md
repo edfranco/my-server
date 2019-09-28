@@ -1,6 +1,6 @@
 # my-server
-This server is a pretty simple server that only serves one purpose: to send email from a client on my webpage directly to my email.
-This server is deployed on heroku and my website cand be found [here](http://eduardofranco.me/)
+This server is a pretty simple server that only serves one purpose: to send email from a client on my [webpage](http://eduardofranco.me/) [(repo)](https://github.com/edfranco/my-react-portfolio) directly to my email.
+This server is deployed on heroku and my website can be found [here](http://eduardofranco.me/)
 
 -----------------------------------------------------------------
 
