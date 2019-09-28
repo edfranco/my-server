@@ -1,5 +1,5 @@
 # my-server
-This server is a pretty simple server that only serves on purpose: to send email from a client on my webpage directly to my email.
+This server is a pretty simple server that only serves one purpose: to send email from a client on my webpage directly to my email.
 This server is deployed on heroku and my website cand be found [here](http://eduardofranco.me/)
 
 -----------------------------------------------------------------
